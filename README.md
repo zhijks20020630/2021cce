@@ -7,13 +7,14 @@
 
 如果有 3個小點 ``` 就可以引用一大段
 
-#include <stdio.h>
+
 ```C
 #include <stdio.h>
 int main()
 {
     printf("HELLO WORLD\n");
 }
-``ˋ
+
+```
 
 # 第二週
