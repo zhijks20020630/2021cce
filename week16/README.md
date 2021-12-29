@@ -1,5 +1,5 @@
 16週程式
-
+ˋˋˋ
 #include <stdio.h>
 #include <string.h>
 char line[3000];
@@ -14,3 +14,4 @@ int main()
 	if(bad==0) printf("YES");
 	else printf("NO");
 } 
+ˋˋˋ
